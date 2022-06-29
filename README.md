@@ -1,16 +1,4 @@
  # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center">
-<a href="https://www.instagram.com/dogukanncaner/">
-  <img align="center" alt="Dogukan's Instagram" width="26px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://twitter.com/dogukanncaner">
-  <img align="center" alt="Dogukan Caner | Twitter" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dogukancaner/">
-  <img align="center" alt="Dogukan's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
- 
- 
  <p align="center">
   <a href="https://twitter.com/terabyte_17">
    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
