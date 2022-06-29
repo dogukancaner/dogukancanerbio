@@ -7,6 +7,6 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Frontend Developer in Turkey. 
-- - 🌱 I’m currently learning **React.JS**.
-- - 💻 I use daily **.js**.
-- - 📫 How do you reach me **dogukanncanerr@gmail.com**
+- 🌱 I’m currently learning **React.JS**.
+- 💻 I use daily **.js**.
+- 📫 How do you reach me **dogukanncanerr@gmail.com**
