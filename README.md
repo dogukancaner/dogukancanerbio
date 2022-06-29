@@ -33,11 +33,9 @@
      <img alt="DogukanCaner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dogukancaner&show_icons=true&theme=radical" height="192px"/>
  </a>
   <a href="https://github.com/dogukancaner/github-readme-stats">
-   <img alt="DogukanCaner's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanCaner&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=61dafb&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+   <img alt="DogukanCaner's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanCaner&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
  </a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+  <br/>1F222E
  
 <img src="https://activity-graph.herokuapp.com/graph?username=dogukancaner&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  
