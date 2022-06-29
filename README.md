@@ -37,5 +37,5 @@
  </a>
   <br/>1F222E
  
-<img src="https://activity-graph.herokuapp.com/graph?username=dogukancaner&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=dogukancaner&theme=react-dark&bg_color=1F222E&hide_border=true" width="100%"/>
  
