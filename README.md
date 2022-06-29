@@ -35,7 +35,7 @@
   <a href="https://github.com/dogukancaner/github-readme-stats">
    <img alt="DogukanCaner's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanCaner&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
  </a>
-  <br/>1F222E
+  <br/>
  
 <img src="https://activity-graph.herokuapp.com/graph?username=dogukancaner&theme=react-dark&bg_color=1F222E&hide_border=true" width="100%"/>
  
