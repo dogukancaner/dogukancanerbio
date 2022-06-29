@@ -1,6 +1,6 @@
  # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://www.instagram.com/dogukanncaer/">
+<a href="https://www.instagram.com/dogukanncaner/">
   <img align="center" alt="Dogukan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/dogukanncaner">
