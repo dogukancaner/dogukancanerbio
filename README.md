@@ -9,3 +9,4 @@
 - 🏦 I'm a Frontend Developer in Turkey. 
 - - 🌱 I’m currently learning **React.JS**.
 - - 💻 I use daily **.js**.
+- - 📫 How do you reach me **dogukanncanerr@gmail.com**
