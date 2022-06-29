@@ -25,7 +25,7 @@
 
 ## 📊 Github Stats
 
-<!-- https://github.com/dogukancaner/github-readme-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -36,13 +36,7 @@
 </details>
 
 
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
-
-
-
-
-
-
-<!-- https://github.com/dogukancaner/github-readme-activity-graph -->
-<a href="https://github.com/dogukancaner/github-readme-activity-graph"><img alt="DogukanCaner's Activity Graph" src="https://dogukancaner-activity-graph.herokuapp.com/graph/?username=DogukanCaner&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
- 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
