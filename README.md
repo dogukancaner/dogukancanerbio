@@ -7,3 +7,4 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Frontend Developer in Turkey. 
+- - 💻 I use daily **.js**.
