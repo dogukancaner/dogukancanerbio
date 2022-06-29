@@ -10,3 +10,4 @@
 - 🌱 I’m currently learning **React.JS**.
 - 💻 I use daily **.js**.
 - 📫 How do you reach me **dogukanncanerr@gmail.com**
+- 💬 Ask me about anything, i am happy to help.
