@@ -38,9 +38,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/dogukancaner/github-readme-activity-graph">
- <img alt="DogukanCaner's Activity Graph" src="https://dogukancaner-activity-graph.herokuapp.com/graph/?username=dogukancaner&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
-
+ 
+ 
+ https://activity-graph.herokuapp.com/graph?username=dogukancaner&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/dogukancaner/github-readme-activity-graph
  
