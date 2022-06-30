@@ -1,4 +1,8 @@
- # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dogukancaner.dogukancaner">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Doğukan+CANER....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <p align="center">
  <a href="https://twitter.com/dogukanncaner">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
