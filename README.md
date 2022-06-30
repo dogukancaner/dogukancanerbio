@@ -24,7 +24,7 @@
 - 💻 I use daily **.js**.
 - 📫 How do you reach me **dogukanncanerr@gmail.com**
 - 💬 Ask me about anything, i am happy to help.
-- ⚡ Fun fact: Im React lover.
+- ⚡ Fun fact: I'm React lover.
 - 🧑‍💻 Tech I work on :
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="65" height="65"/> 
