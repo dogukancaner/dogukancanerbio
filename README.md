@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dogukancaner.dogukancaner">
 <h1 align="center">
 </h1>
 <p align="center">
